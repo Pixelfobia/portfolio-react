@@ -2,9 +2,9 @@ import React from "react";
 import { CgWorkAlt } from "react-icons/cg";
 import { FaReact } from "react-icons/fa";
 import { LuGraduationCap } from "react-icons/lu";
-import foodfinderImg from "@/public/food-finder.png";
-import rmtdevImg from "@/public/rmtdev.png";
-import wordanalyticsImg from "@/public/wordanalytics.png";
+import foodfinderImg from "@/public/foodfinder.jpg";
+import forecastImg from "@/public/forecast.png";
+import cineclubImg from "@/public/cineclub.jpg";
 
 export const links = [
   {
@@ -46,7 +46,7 @@ export const experiencesData = [
     title: "Web & graphic designer",
     location: "Almería, SP",
     description:
-      "I'm now a full-stack developer working as a freelancer. My stack includes React, Next.js, TypeScript, Tailwind, Prisma and MongoDB. I'm open to full-time opportunities.",
+      "Responsible for the design of website design from sketch. Built in WordPress, logo creation, merchandise products, SEO, image optimization, flyer design, poster, banners, video editing.",
     icon: React.createElement(FaReact),
     date: "2021 - present",
   },
@@ -62,25 +62,25 @@ export const experiencesData = [
 
 export const projectsData = [
   {
-    title: "Food Finder",
+    title: "Food Recipe Finder",
     description:
-      "I worked as a full-stack developer on this startup project for 2 years. Users can give public feedback to companies.",
-    tags: ["React", "Api Edaman", "Bootstrap"],
+      "Foodvarse is a dynamic recipe finder web application . This is a front-end-only project that is implemented using React, React Router, Redux, Redux Toolkit, and Tailwind CSS.",
+    tags: ["React", "React Router", "Redux", "Api Edaman", "Tailwind"],
     imageUrl: foodfinderImg,
   },
   {
-    title: "Day Weather Forecast",
+    title: "5 Day Weather Forecast",
     description:
-      "This webpage was created so that a user can find current conditions and a 5-day forecast for any city. The developer was tasked with using the Open Weather API to create the dashboard.",
-    tags: ["React", "Next.js", "Bootstrap", "Redux"],
-    imageUrl: rmtdevImg,
+      "Presenting the user with current conditions (temperature, humidity and wind speed) and the 5-day forecast. Using the Open Weather API to create the dashboard.",
+    tags: ["React", "JavaScript", "RestAPI", "Bootstrap"],
+    imageUrl: forecastImg,
   },
   {
-    title: "Word Analytics",
+    title: "Cineclub Almería",
     description:
-      "A public web app for quick analytics on text. It shows word count, character count and social media post limits.",
-    tags: ["React", "Next.js", "SQL", "Tailwind", "Framer"],
-    imageUrl: wordanalyticsImg,
+      "Responsible for the design of website design from sketch. Built in WordPress, logo creation, merchandise products, SEO, image optimization, flyer design, poster, banners, video editing.",
+    tags: ["WordPress", "CPT's", "PHP", "Tailwind", "JavaScript"],
+    imageUrl: cineclubImg,
   },
 ] as const;
 
