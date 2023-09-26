@@ -46,7 +46,7 @@ export const experiencesData = [
     title: "Web & graphic designer",
     location: "Almería, SP",
     description:
-      "Responsible for the design of website design from sketch. Built in WordPress, logo creation, merchandise products, SEO, image optimization, flyer design, poster, banners, video editing.",
+      "Responsible of website design from sketch. Built in WordPress also logo creation, merchandise products, SEO, image optimization, flyer design, poster, banners, video editing.",
     icon: React.createElement(FaReact),
     date: "2021 - present",
   },
