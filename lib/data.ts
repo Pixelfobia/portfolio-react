@@ -1,5 +1,5 @@
 import React from "react";
-import { CgWorkAlt } from "react-icons/cg";
+// import { CgWorkAlt } from "react-icons/cg";
 import { FaReact } from "react-icons/fa";
 import { LuGraduationCap } from "react-icons/lu";
 import foodfinderImg from "@/public/foodfinder.jpg";
@@ -67,6 +67,7 @@ export const projectsData = [
       "Foodvarse is a dynamic recipe finder web application . This is a front-end-only project that is implemented using React, React Router, Redux, Redux Toolkit, and Tailwind CSS.",
     tags: ["React", "React Router", "Redux", "Api Edaman", "Tailwind"],
     imageUrl: foodfinderImg,
+    enlaces: "https://foodvarse.netlify.app/",
   },
   {
     title: "5 Day Weather Forecast",
@@ -74,13 +75,15 @@ export const projectsData = [
       "Presenting the user with current conditions (temperature, humidity and wind speed) and the 5-day forecast. Using the Open Weather API to create the dashboard.",
     tags: ["React", "JavaScript", "RestAPI", "Bootstrap"],
     imageUrl: forecastImg,
+    enlaces: "https://5dayforecast.netlify.app/",
   },
   {
     title: "Cineclub Almería",
     description:
       "Responsible for the design of website design from sketch. Built in WordPress, logo creation, merchandise products, SEO, image optimization, flyer design, poster, banners, video editing.",
-    tags: ["WordPress", "CPT's", "PHP", "Tailwind", "JavaScript"],
+    tags: ["WordPress", "CPT's", "PHP", "Tailwind", "JavaScript", "Adobe Suite"],
     imageUrl: cineclubImg,
+    enlaces: "https://lafactoria-almeria.com/",
   },
 ] as const;
 
@@ -103,6 +106,7 @@ export const skillsData = [
   "UI/UX",
   "SEO",
   "Photography",
+  "Photogrammetry",
   "Video Editing",
   "Typography",
 ] as const;
