@@ -54,9 +54,9 @@ export const experiencesData = [
     title: "Web & graphic designer",
     location: "Bradford, UK",
     description:
-      "Corporate image redesign, web design, SEO, mailing design, product mockups, advertising banners, video editing, WordPress, WooCommerce, Photoshop, Illustrator, Premiere, After Effects, XD, Mailchimp, Google Analytics.",
+      "In this company I was responsible for creating the online store with Wordpress and WooCommerce. I also designed labels, packaging, print and digital graphics, as well as working on SEO, email template design for MailChimp, API configuration, landing pages and Google Analytics.",
     icon: React.createElement(FaReact),
-    date: "2019 - 2021",
+    date: "2019 - 2020",
   },
 ] as const;
 
