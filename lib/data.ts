@@ -4,7 +4,7 @@ import { FaReact } from "react-icons/fa";
 import { LuGraduationCap } from "react-icons/lu";
 import foodfinderImg from "@/public/foodfinder.jpg";
 import forecastImg from "@/public/forecast.png";
-import cineclubImg from "@/public/cineclub.jpg";
+import searchcarImg from "@/public/searchcar.jpg";
 
 export const links = [
   {
@@ -78,11 +78,11 @@ export const projectsData = [
     enlaces: "https://5dayforecast.netlify.app/",
   },
   {
-    title: "Cineclub Almería",
+    title: "Search Car",
     description:
-      "Responsible for the design of website design from sketch. Built in WordPress, logo creation, merchandise products, SEO, image optimization, flyer design, poster, banners, video editing.",
-    tags: ["WordPress", "CPT's", "PHP", "Tailwind", "JavaScript", "Adobe Suite"],
-    imageUrl: cineclubImg,
+      "App for a vehicle search engine for rent with the Use Next.js 13 App Router and Server Side Rendering, Implement Advanced Search Functionality, Create Filtering Capabilities, Optimize Metadata and SEO, Create custom filter, combobox, and modal elements.",
+    tags: ["React", "Nextjs", "TypeScript", "Tailwind", "API's", "Adobe Suite"],
+    imageUrl: searchcarImg,
     enlaces: "https://lafactoria-almeria.com/",
   },
 ] as const;
