@@ -41,6 +41,7 @@ export const experiencesData = [
       "A 16-week intensive program focused on gaining technical programming skills in HTML5, CSS3, Javascript, JQuery, Bootstrap, Git, GitHub, Node.js, and ReactJS.",
     icon: React.createElement(LuGraduationCap),
     date: "2023",
+    enlace: "https://www.edx.org/boot-camps/coding/careers/front-end-developer",
   },
   {
     title: "Web & graphic designer",
@@ -49,6 +50,7 @@ export const experiencesData = [
       "Responsible of website design from sketch. Built in WordPress also logo creation, merchandise products, SEO, image optimization, flyer design, poster, banners, video editing.",
     icon: React.createElement(FaReact),
     date: "2021 - present",
+    enlace: "https://lafactoria-almeria.com",
   },
   {
     title: "Web & graphic designer",
@@ -57,6 +59,7 @@ export const experiencesData = [
       "In this company I was responsible for creating the online store with Wordpress and WooCommerce. I also designed labels, packaging, print and digital graphics, as well as working on SEO, email template design for MailChimp, API configuration, landing pages and Google Analytics.",
     icon: React.createElement(FaReact),
     date: "2019 - 2020",
+    enlace: "https://britishcbd.net",
   },
 ] as const;
 
@@ -67,7 +70,7 @@ export const projectsData = [
       "Foodvarse is a dynamic recipe finder web application . This is a front-end-only project that is implemented using React, React Router, Redux, Redux Toolkit, and Tailwind CSS.",
     tags: ["React", "React Router", "Redux", "Api Edaman", "Tailwind"],
     imageUrl: foodfinderImg,
-    enlaces: "https://foodvarse.netlify.app/",
+    enlaces: "https://pixelfobia.github.io/Food-Recipe-Finder/",
   },
   {
     title: "5 Day Weather Forecast",
@@ -75,7 +78,7 @@ export const projectsData = [
       "Presenting the user with current conditions (temperature, humidity and wind speed) and the 5-day forecast. Using the Open Weather API to create the dashboard.",
     tags: ["React", "JavaScript", "RestAPI", "Bootstrap"],
     imageUrl: forecastImg,
-    enlaces: "https://5dayforecast.netlify.app/",
+    enlaces: "https://pixelfobia.github.io/Day-Weather-Forecast/",
   },
   {
     title: "Search Car",
@@ -83,7 +86,7 @@ export const projectsData = [
       "App for a vehicle search engine for rent with the Use Next.js 13 App Router and Server Side Rendering, Implement Advanced Search Functionality, Create Filtering Capabilities, Optimize Metadata and SEO, Create custom filter, combobox, and modal elements.",
     tags: ["React", "Nextjs", "TypeScript", "Tailwind", "API's", "Adobe Suite"],
     imageUrl: searchcarImg,
-    enlaces: "https://lafactoria-almeria.com/",
+    enlaces: "https://search-car-react.vercel.app/",
   },
 ] as const;
 
