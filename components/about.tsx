@@ -30,10 +30,10 @@ export default function About() {
         <span className="font-medium">
           React and WordPress
         </span>
-        . I am also familiar with JQuery, Figma/XD and Adobe Suite. I am always looking to
+        . I am also familiar with PHP, JQuery, Figma/XD and Adobe Suite. I am always looking to
         learn new technologies. I am currently looking for a{" "}
-        <span className="font-medium">full-time position</span> as a Junior
-        web designer/developer.
+        <span className="font-medium">full-time position</span> as a Junior/Middle
+        Web developer.
       </p>
 
       <p>

@@ -44,7 +44,7 @@ export const experiencesData = [
     enlace: "https://www.edx.org/boot-camps/coding/careers/front-end-developer",
   },
   {
-    title: "Web & graphic designer",
+    title: "La Factoría, Digital designer",
     location: "Almería, SP",
     description:
       "Responsible of website design from sketch. Built in WordPress also logo creation, merchandise products, SEO, image optimization, flyer design, poster, banners, video editing.",
@@ -53,13 +53,31 @@ export const experiencesData = [
     enlace: "https://lafactoria-almeria.com",
   },
   {
-    title: "Web & graphic designer",
+    title: "Magma Organic, Web designer",
     location: "Bradford, UK",
     description:
       "In this company I was responsible for creating the online store with Wordpress and WooCommerce. I also designed labels, packaging, print and digital graphics, as well as working on SEO, email template design for MailChimp, API configuration, landing pages and Google Analytics.",
     icon: React.createElement(FaReact),
     date: "2019 - 2020",
     enlace: "https://britishcbd.net",
+  },
+  {
+    title: "Prensarama, Layout designer",
+    location: "Almeria, SP",
+    description:
+      "In this company I was responsible for the layout of editorial publications and the design of advertisements.",
+    icon: React.createElement(FaReact),
+    date: "2008 - 2015",
+    enlace: "https://prensarama.com",
+  },
+  {
+    title: "Los Escullos, Digital designer",
+    location: "Almeria, SP",
+    description:
+      "At Los Escullos Resort and at the Rodalquilar Hotel, I carried out redesign work on the website and corporate image, e-commerce, design of posters and flyers, advertising banners and graphic resources. I was also in charge of the local network, backups and contact with software providers.",
+    icon: React.createElement(FaReact),
+    date: "2000 - 2008",
+    enlace: "https://losescullossanjose.com",
   },
 ] as const;
 
