@@ -5,6 +5,7 @@ import { LuGraduationCap } from "react-icons/lu";
 import foodfinderImg from "@/public/foodfinder.jpg";
 import forecastImg from "@/public/forecast.png";
 import searchcarImg from "@/public/searchcar.jpg";
+import wpthemeImg from "@/public/wptheme.png";
 
 export const links = [
   {
@@ -82,6 +83,14 @@ export const experiencesData = [
 ] as const;
 
 export const projectsData = [
+  {
+    title: "Custom WordPress Theme from scratch",
+    description:
+      "Foodvarse is a dynamic recipe finder web application . This is a front-end-only project that is implemented using React, React Router, Redux, Redux Toolkit, and Tailwind CSS.",
+    tags: ["PHP", "HTML", "CSS", "Bootstrap", "Pods CPT"],
+    imageUrl: wpthemeImg,
+    enlaces: "https://github.com/Pixelfobia/WP-Theme/tree/main",
+  },
   {
     title: "Food Recipe Finder",
     description:
