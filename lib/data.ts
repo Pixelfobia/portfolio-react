@@ -86,7 +86,7 @@ export const projectsData = [
   {
     title: "Custom WordPress Theme from scratch",
     description:
-      "Foodvarse is a dynamic recipe finder web application . This is a front-end-only project that is implemented using React, React Router, Redux, Redux Toolkit, and Tailwind CSS.",
+      "Creating a WordPress theme from sketch, using Boostrap and Pods Custom post types",
     tags: ["PHP", "HTML", "CSS", "Bootstrap", "Pods CPT"],
     imageUrl: wpthemeImg,
     enlaces: "https://github.com/Pixelfobia/WP-Theme/tree/main",
