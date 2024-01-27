@@ -33,7 +33,7 @@ export default function About() {
         . I am also familiar with PHP, JQuery, Figma/XD and Adobe Suite. I am always looking to
         learn new technologies. I am currently looking for a{" "}
         <span className="font-medium">full-time position</span> as a Junior/Middle
-        Web developer.
+        Web developer and/or Graphic Designer.
       </p>
 
       <p>
