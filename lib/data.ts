@@ -78,7 +78,7 @@ export const experiencesData = [
       "At Los Escullos Resort and at the Rodalquilar Hotel, I carried out redesign work on the website and corporate image, e-commerce, design of posters and flyers, advertising banners and graphic resources. I was also in charge of the local network, backups and contact with software providers.",
     icon: React.createElement(FaReact),
     date: "2000 - 2008",
-    enlace: "https://losescullossanjose.com",
+    enlace: "https://www.losesculloscabodegata.com/en/",
   },
 ] as const;
 
