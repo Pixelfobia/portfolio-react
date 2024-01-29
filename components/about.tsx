@@ -30,7 +30,7 @@ export default function About() {
         <span className="font-medium">
           React and WordPress
         </span>
-        . I am also familiar with PHP, JQuery, Figma/XD and Adobe Suite. I am always looking to
+        . I am also familiar with PHP, React, JQuery, Figma/XD and Adobe Suite. I am always looking to
         learn new technologies. I am currently looking for a{" "}
         <span className="font-medium">full-time position</span> as a Junior/Middle
         Web developer and/or Graphic Designer.
@@ -40,7 +40,7 @@ export default function About() {
         <span className="italic">When I'm not coding or designing</span>, I enjoy visiting places with charm and history, 
         going to the theater or trying to hit the ball playing tennis. I also enjoy{" "}
         <span className="font-medium">cooking</span>. I am currently finished{" "}
-        <span className="font-medium">art history studies</span>. I'm also learning to play the cello!.
+        <span className="font-medium">Art History studies</span>. I'm also learning to play the cello!.
       </p>
     </motion.section>
   );
