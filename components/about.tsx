@@ -28,7 +28,7 @@ export default function About() {
         feeling of finally figuring out a solution to a problem. My core stack
         is{" "}
         <span className="font-medium">
-          React and WordPress
+          WordPress and Graphic Design
         </span>
         . I am also familiar with PHP, React, JQuery, Figma/XD and Adobe Suite. I am always looking to
         learn new technologies. I am currently looking for a{" "}
