@@ -129,6 +129,7 @@ export const skillsData = [
   "WordPress",
   "CPT's",
 	"PHP",
+  "SQL",
 	"Photoshop",
   "Illustrator",
   "InDesign",
